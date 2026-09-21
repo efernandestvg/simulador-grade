@@ -1,4 +1,5 @@
-# simulador-grade[gemini-code-1790002758837.html](https://github.com/user-attachments/files/32475249/gemini-code-1790002758837.html)
+[gemini-code-1790002758837.html](https://github.com/user-attachments/files/32481567/gemini-code-1790002758837.html)
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
